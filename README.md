@@ -4,9 +4,6 @@ Frontend (React):
 
 
 
-
-
-
 User Interface: Build a sleek and responsive UI using Tailwind CSS for a modern, visually appealing design.
 
 Real-Time Streaming: Implement real-time streaming capabilities for video and audio content, ensuring smooth playback and interaction.
